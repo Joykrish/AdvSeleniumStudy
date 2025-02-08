@@ -9,8 +9,8 @@ public class Customer {
 
 	public Customer(String fName, String lName,String postNumber) {
 		this.fName=fName;
-		this.lName=fName;
-		this.postNumber=fName;
+		this.lName=lName;
+		this.postNumber=postNumber;
 	}
 	public String getfName() {
 		return fName;
