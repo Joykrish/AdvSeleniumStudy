@@ -1,0 +1,48 @@
+{
+	"custlist": [
+		{
+			"fName": "Joy",
+			"lName": "Krish",
+			"postNumber": "1234"
+		},
+		{
+			"fName": "Joy22",
+			"lName": "Krish22",
+			"postNumber": "123422"
+		}
+	],
+	"OpenAccount": [
+		{
+			"Customer": "Joy",
+			"Currency": "Krish"
+		}
+	],
+	"Test": [
+		{
+			"customerINfo": {
+				"Customer": "Joy",
+				"address": [
+					{
+						"streetname": "abc",
+						"streeNum": "10",
+						"city": "USA"
+					}
+				],
+				"Currency": "Krish"
+			}
+		},
+		{
+			"studentINfo": {
+				"student": "Joy",
+				"studentaddress": [
+					{
+						"studentstreetname": "studentabc",
+						"studentstreeNum": "101",
+						"studentcity": "studentUSA"
+					}
+				],
+				"Currencystudent": "Krishstudent"
+			}
+		}
+	]
+}

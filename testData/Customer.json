@@ -1,0 +1,19 @@
+{
+	"custlist":[
+		{
+			"fName": "Joy",
+			"lName" : "Krish",
+			"postNumber" : "1234"
+		},
+		
+		{
+			"fName": "Joy1",
+			"lName" : "Krish1",
+			"postNumber" : "12341"
+		}
+		
+
+	
+	]
+	
+}  

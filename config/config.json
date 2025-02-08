@@ -1,0 +1,13 @@
+{
+	"environments": {
+		"DEV": {
+			"url": "https://www.automationpractice.pl"
+		},
+		"QA": {
+			"url": "https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login"
+		},
+		"UAT": {
+			"url": "https://www.automationpractice.pl"
+		}
+	}
+}

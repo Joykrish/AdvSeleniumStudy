@@ -1,0 +1,62 @@
+2025-02-08 13:44:32 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms. 
+2025-02-08 13:44:32 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 5 ms. 
+2025-02-08 13:44:32 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2025-02-08 13:44:32 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2025-02-08 13:44:32 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2025-02-08 13:44:32 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2025-02-08 13:44:32 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2025-02-08 13:44:32 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2025-02-08 13:44:32 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2025-02-08 13:44:32 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2025-02-08 13:44:32 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2025-02-08 13:44:32 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2025-02-08 13:44:32 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2025-02-08 13:44:32 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2025-02-08 13:44:32 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2025-02-08 13:44:32 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2025-02-08 13:44:32 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 13 ms. 
+2025-02-08 13:44:33 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 18 ms. 
+2025-02-08 13:44:33 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2025-02-08 13:44:33 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2025-02-08 13:44:33 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2025-02-08 13:44:33 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2025-02-08 13:44:33 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2025-02-08 13:44:33 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2025-02-08 13:44:33 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms. 
+2025-02-08 13:44:33 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2025-02-08 13:44:33 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2025-02-08 13:44:33 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2025-02-08 13:44:33 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2025-02-08 13:44:33 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2025-02-08 13:44:33 [main] INFO org.testng.internal.Utils [TestNG] Running:
+  C:\Users\Admin\AppData\Local\Temp\testng-eclipse-641638886\testng-customsuite.xml
+ 
+2025-02-08 13:44:33 [main] INFO com.ui.listerners.TestListener Test Suite Started 
+2025-02-08 13:44:33 [main] INFO org.testng.internal.Utils [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms. 
+2025-02-08 13:44:34 [main] INFO com.ui.tests.LoginTest Load the Homepage of the Application 
+2025-02-08 13:44:34 [main] INFO com.ui.pages.HomePage Launching Browser for CHROME 
+2025-02-08 13:44:37 [main] INFO com.ui.pages.HomePage Visiting the website..https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login 
+2025-02-08 13:44:38 [main] INFO com.ui.listerners.TestListener loginTest 
+2025-02-08 13:44:38 [main] INFO com.ui.listerners.TestListener To Verify valid user is able to login into application successfully 
+2025-02-08 13:44:38 [main] INFO com.ui.listerners.TestListener [e2e, sanity] 
+2025-02-08 13:44:38 [main] INFO com.ui.pages.HomePage Trying to perform click to Bank Manager Login Button 
+2025-02-08 13:44:38 [main] INFO com.ui.pages.HomePage Finding element with the locatorBy.xpath: //button[text()='Bank Manager Login'] 
+2025-02-08 13:44:39 [main] INFO com.ui.pages.HomePage Element found and performing the click 
+2025-02-08 13:44:39 [main] INFO com.ui.pages.CustomerPage Finding element with the locatorBy.xpath: //button[contains(text(), 'Add Customer')] 
+2025-02-08 13:44:40 [main] INFO com.ui.pages.CustomerPage Element found and performing the click 
+2025-02-08 13:44:40 [main] INFO com.ui.pages.CustomerPage Finding element with the locatorBy.xpath: //input[@placeholder='First Name'] 
+2025-02-08 13:44:41 [main] INFO com.ui.pages.CustomerPage Element found and now enter textJoyE 
+2025-02-08 13:44:41 [main] INFO com.ui.pages.CustomerPage Finding element with the locatorBy.xpath: //input[@placeholder='Last Name'] 
+2025-02-08 13:44:41 [main] INFO com.ui.pages.CustomerPage Element found and now enter textJoyE 
+2025-02-08 13:44:41 [main] INFO com.ui.pages.CustomerPage Finding element with the locatorBy.xpath: //input[@placeholder='Post Code'] 
+2025-02-08 13:44:41 [main] INFO com.ui.pages.CustomerPage Element found and now enter textJoyE 
+2025-02-08 13:44:41 [main] INFO com.ui.pages.CustomerPage Finding element with the locatorBy.xpath: //button[text()='Add Customer'] 
+2025-02-08 13:44:41 [main] INFO com.ui.pages.CustomerPage Element found and performing the click 
+2025-02-08 13:44:43 [main] INFO com.ui.listerners.TestListener loginTestPASSED 
+2025-02-08 13:44:44 [main] INFO com.ui.listerners.TestListener Test Suite completed 
+2025-02-08 13:44:44 [main] INFO org.testng.internal.Utils [TestNG] Time taken by org.testng.reporters.jq.Main@27dc627a: 146 ms 
+2025-02-08 13:44:44 [main] INFO org.testng.internal.Utils [TestNG] Time taken by org.testng.reporters.FailedReporter@570ba13: 1 ms 
+2025-02-08 13:44:44 [main] INFO org.testng.internal.Utils [TestNG] Time taken by org.testng.reporters.XMLReporter@2233cac0: 28 ms 
+2025-02-08 13:44:44 [main] INFO org.testng.internal.Utils [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3f9b7fe1: 11 ms 
+2025-02-08 13:44:45 [main] INFO org.testng.internal.Utils [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7d42404e: 17 ms 
+2025-02-08 13:44:45 [main] INFO org.testng.internal.Utils [TestNG] Time taken by org.testng.internal.ExitCodeListener@6af5b246: 0 ms 
