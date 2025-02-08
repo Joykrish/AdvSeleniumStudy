@@ -22,8 +22,8 @@ public class LoginTest extends TestBase {
 
 	Logger logger = LoggerUtility.getLogger(this.getClass());
 	
-	@Test(description = "To Verify valid user is able to login into application successfully", groups = { "e2e",
-			"sanity" }, dataProviderClass = com.ui.dataprovider.LoginDataProvider.class, dataProvider = "customerTestExcelDatProvider", enabled = true)
+	@Test(description = "To Verify valid user is able to enter the customer data successfully Data driven terminology", groups = { "e2e",
+			"sanity" }, dataProviderClass = com.ui.dataprovider.LoginDataProvider.class, dataProvider = "customerTestExcelDatProvider", enabled = false)
 	public void loginTest(Customer customer) throws InterruptedException {
 		homePage.goToBankManager().enterCustomerInfo(customer.getfName(), customer.getlName(),
 				customer.getPostNumber());
@@ -32,8 +32,8 @@ public class LoginTest extends TestBase {
   
 	}
 
-	@Test(description = "To Verify valid user is able to login into application successfully", groups = { "e2e",
-			"sanity" }, enabled = false)
+	@Test(description = "To Verify valid user is able to enter the customer data successfully from Json", groups = { "e2e",
+			"sanity" }, enabled = true)
 	public void verifyAddCustomer() throws InterruptedException {
 
 		
