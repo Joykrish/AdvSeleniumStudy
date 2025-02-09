@@ -23,7 +23,7 @@ import org.openqa.selenium.firefox.FirefoxOptions;
 import com.constants.Browser;
 import com.constants.WaitStrategy;
 
-public abstract class BrowserUtility {
+public  class BrowserUtility {
 
 	protected static ThreadLocal<WebDriver> driver = new ThreadLocal<WebDriver>();
 	Logger logger = LoggerUtility.getLogger(this.getClass());

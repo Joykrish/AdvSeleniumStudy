@@ -2,18 +2,18 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-02-08T17:59:27 IST" name="Default suite" finished-at="2025-02-08T17:59:36 IST" duration-ms="8766">
+  <suite started-at="2025-02-09T11:59:13 IST" name="Automation Practice Test Suite" finished-at="2025-02-09T11:59:25 IST" duration-ms="11596">
     <groups>
       <group name="sanity">
-        <method signature="LoginTest.verifyAddCustomer()[pri:0, instance:com.ui.tests.LoginTest@61f05988]" name="verifyAddCustomer" class="com.ui.tests.LoginTest"/>
+        <method signature="LoginTest.verifyAddCustomer()[pri:0, instance:com.ui.tests.LoginTest@1d3ac898]" name="verifyAddCustomer" class="com.ui.tests.LoginTest"/>
       </group> <!-- sanity -->
       <group name="e2e">
-        <method signature="LoginTest.verifyAddCustomer()[pri:0, instance:com.ui.tests.LoginTest@61f05988]" name="verifyAddCustomer" class="com.ui.tests.LoginTest"/>
+        <method signature="LoginTest.verifyAddCustomer()[pri:0, instance:com.ui.tests.LoginTest@1d3ac898]" name="verifyAddCustomer" class="com.ui.tests.LoginTest"/>
       </group> <!-- e2e -->
     </groups>
-    <test started-at="2025-02-08T17:59:27 IST" name="Default test" finished-at="2025-02-08T17:59:36 IST" duration-ms="8766">
+    <test started-at="2025-02-09T11:59:13 IST" name="UI Automation Test" finished-at="2025-02-09T11:59:25 IST" duration-ms="11596">
       <class name="com.ui.tests.LoginTest">
-        <test-method is-config="true" signature="setUp(java.lang.String,boolean,org.testng.ITestResult)[pri:0, instance:com.ui.tests.LoginTest@61f05988]" started-at="2025-02-08T17:59:28 IST" name="setUp" description="Load the Homepage of the Application" finished-at="2025-02-08T17:59:32 IST" duration-ms="3997" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String,boolean,org.testng.ITestResult)[pri:0, instance:com.ui.tests.LoginTest@1d3ac898]" started-at="2025-02-09T11:59:14 IST" name="setUp" description="Load the Homepage of the Application" finished-at="2025-02-09T11:59:21 IST" duration-ms="7419" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -27,22 +27,22 @@
             </param>
             <param index="2">
               <value>
-                <![CDATA[[TestResult name={null} status=CREATED method=LoginTest.verifyAddCustomer()[pri:0, instance:com.ui.tests.LoginTest@61f05988] output={null}]]]>
+                <![CDATA[[TestResult name={null} status=CREATED method=LoginTest.verifyAddCustomer()[pri:0, instance:com.ui.tests.LoginTest@1d3ac898] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyAddCustomer()[pri:0, instance:com.ui.tests.LoginTest@61f05988]" started-at="2025-02-08T17:59:32 IST" name="verifyAddCustomer" description="To Verify valid user is able to enter the customer data successfully from Json" finished-at="2025-02-08T17:59:36 IST" duration-ms="3925" status="PASS">
+        <test-method signature="verifyAddCustomer()[pri:0, instance:com.ui.tests.LoginTest@1d3ac898]" started-at="2025-02-09T11:59:21 IST" name="verifyAddCustomer" description="To Verify valid user is able to enter the customer data successfully from Json" finished-at="2025-02-09T11:59:24 IST" duration-ms="3005" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyAddCustomer -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ui.tests.LoginTest@61f05988]" started-at="2025-02-08T17:59:36 IST" name="tearDown" description="Tear Down the Browser" finished-at="2025-02-08T17:59:36 IST" duration-ms="329" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ui.tests.LoginTest@1d3ac898]" started-at="2025-02-09T11:59:24 IST" name="tearDown" description="Tear Down the Browser" finished-at="2025-02-09T11:59:25 IST" duration-ms="406" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.ui.tests.LoginTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- UI Automation Test -->
+  </suite> <!-- Automation Practice Test Suite -->
 </testng-results>

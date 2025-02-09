@@ -1,62 +1,25 @@
-2025-02-08 17:59:27 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
-2025-02-08 17:59:27 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 2 ms. 
-2025-02-08 17:59:27 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
-2025-02-08 17:59:27 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
-2025-02-08 17:59:27 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
-2025-02-08 17:59:27 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
-2025-02-08 17:59:27 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
-2025-02-08 17:59:27 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
-2025-02-08 17:59:27 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
-2025-02-08 17:59:27 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
-2025-02-08 17:59:27 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
-2025-02-08 17:59:27 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
-2025-02-08 17:59:27 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
-2025-02-08 17:59:27 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
-2025-02-08 17:59:27 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
-2025-02-08 17:59:27 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
-2025-02-08 17:59:27 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 15 ms. 
-2025-02-08 17:59:27 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 20 ms. 
-2025-02-08 17:59:27 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms. 
-2025-02-08 17:59:27 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
-2025-02-08 17:59:27 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
-2025-02-08 17:59:27 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
-2025-02-08 17:59:27 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
-2025-02-08 17:59:27 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
-2025-02-08 17:59:27 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms. 
-2025-02-08 17:59:27 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
-2025-02-08 17:59:27 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
-2025-02-08 17:59:27 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
-2025-02-08 17:59:27 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
-2025-02-08 17:59:27 [main] INFO org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
-2025-02-08 17:59:27 [main] INFO org.testng.internal.Utils [TestNG] Running:
-  C:\Users\Admin\AppData\Local\Temp\testng-eclipse--1684074478\testng-customsuite.xml
+2025-02-09 11:59:13 [main] INFO org.testng.internal.Utils [TestNG] Running:
+  D:\DataDriven\NewFrameworkFromLinkedIn\automation-framework\testng.xml
  
-2025-02-08 17:59:27 [main] INFO com.ui.listerners.TestListener Test Suite Started 
-2025-02-08 17:59:28 [main] INFO org.testng.internal.Utils [Utils] DynamicGraphHelper.createDynamicGraph() took 11 ms. 
-2025-02-08 17:59:28 [main] INFO com.ui.tests.LoginTest Load the Homepage of the Application 
-2025-02-08 17:59:28 [main] INFO com.ui.pages.HomePage Launching Browser for CHROME 
-2025-02-08 17:59:31 [main] INFO com.ui.pages.HomePage Visiting the website..https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login 
-2025-02-08 17:59:32 [main] INFO com.ui.listerners.TestListener verifyAddCustomer 
-2025-02-08 17:59:32 [main] INFO com.ui.listerners.TestListener To Verify valid user is able to enter the customer data successfully from Json 
-2025-02-08 17:59:32 [main] INFO com.ui.listerners.TestListener [e2e, sanity] 
-2025-02-08 17:59:32 [main] INFO com.ui.pages.HomePage Trying to perform click to Bank Manager Login Button 
-2025-02-08 17:59:32 [main] INFO com.ui.pages.HomePage Finding element with the locatorBy.xpath: //button[text()='Bank Manager Login'] 
-2025-02-08 17:59:34 [main] INFO com.ui.pages.HomePage Element found and performing the click 
-2025-02-08 17:59:34 [main] INFO com.ui.pages.CustomerPage Finding element with the locatorBy.xpath: //button[contains(text(), 'Add Customer')] 
-2025-02-08 17:59:34 [main] INFO com.ui.pages.CustomerPage Element found and performing the click 
-2025-02-08 17:59:34 [main] INFO com.ui.pages.CustomerPage Finding element with the locatorBy.xpath: //input[@placeholder='First Name'] 
-2025-02-08 17:59:35 [main] INFO com.ui.pages.CustomerPage Element found and now enter textJoy22 
-2025-02-08 17:59:35 [main] INFO com.ui.pages.CustomerPage Finding element with the locatorBy.xpath: //input[@placeholder='Last Name'] 
-2025-02-08 17:59:35 [main] INFO com.ui.pages.CustomerPage Element found and now enter textKrish22 
-2025-02-08 17:59:35 [main] INFO com.ui.pages.CustomerPage Finding element with the locatorBy.xpath: //input[@placeholder='Post Code'] 
-2025-02-08 17:59:35 [main] INFO com.ui.pages.CustomerPage Element found and now enter text123422 
-2025-02-08 17:59:35 [main] INFO com.ui.pages.CustomerPage Finding element with the locatorBy.xpath: //button[text()='Add Customer'] 
-2025-02-08 17:59:35 [main] INFO com.ui.pages.CustomerPage Element found and performing the click 
-2025-02-08 17:59:36 [main] INFO com.ui.listerners.TestListener verifyAddCustomerPASSED 
-2025-02-08 17:59:36 [main] INFO com.ui.listerners.TestListener Test Suite completed 
-2025-02-08 17:59:37 [main] INFO org.testng.internal.Utils [TestNG] Time taken by org.testng.reporters.jq.Main@695c938d: 162 ms 
-2025-02-08 17:59:37 [main] INFO org.testng.internal.Utils [TestNG] Time taken by org.testng.reporters.FailedReporter@d5bb1c4: 4 ms 
-2025-02-08 17:59:37 [main] INFO org.testng.internal.Utils [TestNG] Time taken by org.testng.reporters.XMLReporter@2cd4e16a: 17 ms 
-2025-02-08 17:59:37 [main] INFO org.testng.internal.Utils [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4d634127: 13 ms 
-2025-02-08 17:59:37 [main] INFO org.testng.internal.Utils [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@e111c7c: 14 ms 
-2025-02-08 17:59:37 [main] INFO org.testng.internal.Utils [TestNG] Time taken by org.testng.internal.ExitCodeListener@4d0e54e0: 0 ms 
+2025-02-09 11:59:13 [main] INFO com.ui.listerners.TestListener Test Suite Started 
+2025-02-09 11:59:14 [TestNG-test-UI Automation Test-1] INFO com.ui.tests.LoginTest Load the Homepage of the Application 
+2025-02-09 11:59:14 [TestNG-test-UI Automation Test-1] INFO com.ui.pages.HomePage Launching Browser for CHROME 
+2025-02-09 11:59:19 [TestNG-test-UI Automation Test-1] INFO com.ui.pages.HomePage Visiting the website..https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login 
+2025-02-09 11:59:21 [TestNG-test-UI Automation Test-1] INFO com.ui.listerners.TestListener verifyAddCustomer 
+2025-02-09 11:59:21 [TestNG-test-UI Automation Test-1] INFO com.ui.listerners.TestListener To Verify valid user is able to enter the customer data successfully from Json 
+2025-02-09 11:59:21 [TestNG-test-UI Automation Test-1] INFO com.ui.listerners.TestListener [e2e, sanity] 
+2025-02-09 11:59:21 [TestNG-test-UI Automation Test-1] INFO com.ui.pages.HomePage Trying to perform click to Bank Manager Login Button 
+2025-02-09 11:59:21 [TestNG-test-UI Automation Test-1] INFO com.ui.pages.HomePage Finding element with the locatorBy.xpath: //button[text()='Bank Manager Login'] 
+2025-02-09 11:59:22 [TestNG-test-UI Automation Test-1] INFO com.ui.pages.HomePage Element found and performing the click 
+2025-02-09 11:59:22 [TestNG-test-UI Automation Test-1] INFO com.ui.pages.CustomerPage Finding element with the locatorBy.xpath: //button[contains(text(), 'Add Customer')] 
+2025-02-09 11:59:23 [TestNG-test-UI Automation Test-1] INFO com.ui.pages.CustomerPage Element found and performing the click 
+2025-02-09 11:59:23 [TestNG-test-UI Automation Test-1] INFO com.ui.pages.CustomerPage Finding element with the locatorBy.xpath: //input[@placeholder='First Name'] 
+2025-02-09 11:59:23 [TestNG-test-UI Automation Test-1] INFO com.ui.pages.CustomerPage Element found and now enter textJoy22 
+2025-02-09 11:59:23 [TestNG-test-UI Automation Test-1] INFO com.ui.pages.CustomerPage Finding element with the locatorBy.xpath: //input[@placeholder='Last Name'] 
+2025-02-09 11:59:24 [TestNG-test-UI Automation Test-1] INFO com.ui.pages.CustomerPage Element found and now enter textKrish22 
+2025-02-09 11:59:24 [TestNG-test-UI Automation Test-1] INFO com.ui.pages.CustomerPage Finding element with the locatorBy.xpath: //input[@placeholder='Post Code'] 
+2025-02-09 11:59:24 [TestNG-test-UI Automation Test-1] INFO com.ui.pages.CustomerPage Element found and now enter text123422 
+2025-02-09 11:59:24 [TestNG-test-UI Automation Test-1] INFO com.ui.pages.CustomerPage Finding element with the locatorBy.xpath: //button[text()='Add Customer'] 
+2025-02-09 11:59:24 [TestNG-test-UI Automation Test-1] INFO com.ui.pages.CustomerPage Element found and performing the click 
+2025-02-09 11:59:24 [TestNG-test-UI Automation Test-1] INFO com.ui.listerners.TestListener verifyAddCustomerPASSED 
+2025-02-09 11:59:25 [main] INFO com.ui.listerners.TestListener Test Suite completed 
